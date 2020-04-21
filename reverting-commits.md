@@ -14,4 +14,5 @@
 
 ## Amending the most recent commit message
 Use this to change the commit message of the latest commit
+
 `git commit --amend -m "New commit message"`
