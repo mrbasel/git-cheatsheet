@@ -11,3 +11,7 @@
 
 ## Revet to last commit and keep changes staged
 `git reset --soft HEAD~1`
+
+## Amending the most recent commit message
+Use this to change the commit message of the latest commit
+`git commit --amend -m "New commit message"
