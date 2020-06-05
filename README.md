@@ -1,2 +1,2 @@
 # git-cheatsheet
-A reference for some git commands I frequently use
+My reference for git commands I sometimes forget 😆
