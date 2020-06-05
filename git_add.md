@@ -12,3 +12,5 @@ git add -p
 - d - do not stage this hunk or any of the later hunks in the file
 - s - split the current hunk into smaller hunks
 - e - manually edit the current hunk
+
+learn more [here](https://maksimivanov.com/posts/git-add-patch/)
